@@ -1,0 +1,31 @@
+{{ $services := .Site.Data.services }}
+
+<section class="blue">
+  <h2 class="heading">{{ $services.title }}</h2>
+
+  <div class="row justify-content-md-center text-center">
+
+    {{ range $index, $element := $services.services }}
+
+    <div class="col-12 col-lg-6 col-md-6 mb-3">
+      <div class="card p-4">
+        <i class="mt-3  {{ $element.style }} fa-{{ $element.icon }} fa-3x"></i>
+        <h5 class="mt-4">{{ $element.title }}</h5>
+        <h5 class="">
+          <span class="badge badge-dark exp-position">{{ $element.description }}</span>
+        </h5>
+        {{ $website := $element.website }}
+        {{ if $website }}
+        <a target="_blank" href="{{ $element.link }}">
+          <i class="fas fa-anchor"></i>
+          {{ $website }}
+        </a>
+        {{ end }}
+        <hr>
+        <p class="text-muted">{{ $element.date }}</p>
+      </div>
+    </div>
+
+    {{ end }}
+  </div>
+</section>
