@@ -18,6 +18,10 @@
     color: #011936;
 }
 
+#sidebar a i.far {
+    color: white !important;
+}
+
 #skills {
     background-color: #347FC4;
 }
@@ -57,6 +61,6 @@ section.blue {
 }
 
 .exp-position {
-    white-space: normal; 
+    white-space:normal; 
     text-align: inherit;
 }

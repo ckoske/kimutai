@@ -18,6 +18,10 @@
     color: #011936;
 }
 
+#sidebar a i.far {
+    color: white !important;
+}
+
 #skills {
     background-color: #347FC4;
 }
