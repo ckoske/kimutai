@@ -1,16 +1,45 @@
 {
-	"title" : "Experience",
-	"experience" : [
+	"title": "Experience",
+	"experience": [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod": "May 2011 - February 2014",
+			"company": "Commercial Bank of Africa",
+			"position": "Customer Experience Assistant",
+			"website": "cbagroup.com",
+			"description": ["Serviced customer enquiries, determine customer needs",
+				"and provide solutions with regards to their banking needs"]
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod": "February 2014 - January 2016",
+			"company": "Commercial Bank of Africa",
+			"position": "Service Desk Analyst",
+			"website": "cbagroup.com",
+			"description": ["Assisted in maintaining of users rights in the core banking",
+				"system and peripheral systems. Implemented customer feedback system that",
+				"was used to track quality of closure ticked. This led to 10% increase in",
+				"internal customer satisfaction score for service desk unit."]
+		},
+		{
+			"timeperiod": "February 2016 - April 2017",
+			"company": "Commercial Bank of Africa",
+			"position": "Systems Analyst",
+			"website": "cbagroup.com",
+			"description": ["Offered first level support on the core banking system, mobile",
+			"banking and internet banking interfaces."]
+		},
+		{
+			"timeperiod": "May 2017 - Present",
+			"company": "Commercial Bank of Africa",
+			"position": "Application Support Analyst",
+			"website": "cbagroup.com",
+			"description": ["Provided second level support on the T24 Core Banking application and Oracle",
+			"Middleware concerning the Mobile Savings and Lending products in Kenya (Mshwari) and Tanzanian markets.",
+			"Through Continual Service Improvement, I was instrumental in optimizing loan",
+			"request process on the M-shwari platform. This led to reduced turnaround time for",
+			"loan disbursals from over five minutes to almost instantaneous.",
+			"Lead T24 analyst on digital banking products and various systems that interface on",
+			"T24. Project implementation from ideation to post implementation support."]
 		}
 	]
 }
+

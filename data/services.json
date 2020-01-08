@@ -1,15 +1,32 @@
 {
-	"title" : "Services",
+	"title" : "Courses",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"style": "fas",
+			"icon" : "server",
+			"title" : "ITIL Foundation",
+			"description" : "Axelos",
+			"date": "October 2014",
+			"website": "axelos.com",
+			"link": "https://www.axelos.com/best-practice-solutions/itil"	
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"style": "fab",
+			"icon" : "linux",
+			"title" : "UNIX Fundamentals",
+			"description" : "HP Education Services",
+			"date": "October 2015",
+			"website": "education.hpe.com",
+			"link": "https://education.hpe.com/ww/en/training/portfolio/linux.html"	
+		},
+		{
+			"style": "fas",
+			"icon" : "project-diagram",
+			"title" : "Prince2 Practioner Project Management",
+			"description" : "Axelos",
+			"date": "October 2017",
+			"website": "axelos.com",
+			"link": "https://www.axelos.com/best-practice-solutions/prince2"	
 		}
 	]
 }
