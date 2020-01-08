@@ -55,3 +55,8 @@ section.blue {
 #contact label {
     color: whitesmoke;
 }
+
+.exp-position {
+    white-space: normal; 
+    text-align: inherit;
+}
