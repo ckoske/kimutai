@@ -1,5 +1,5 @@
 {
-	"title" : "Courses",
+	"title" : "Education & Courses",
 	"services" : [
 		{
 			"style": "fas",
@@ -27,6 +27,15 @@
 			"date": "October 2017",
 			"website": "axelos.com",
 			"link": "https://www.axelos.com/best-practice-solutions/prince2"	
+		},
+		{
+			"style": "fas",
+			"icon" : "graduation-cap",
+			"title" : "B.Sc. Telecommunications and IT",
+			"description" : "Kenyatta University",
+			"date": "December 2010",
+			"website": "ku.ac.ke",
+			"link": "http://spas.ku.ac.ke/index.php/academic-programs/undergraduate"	
 		}
 	]
 }
