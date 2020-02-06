@@ -2,12 +2,25 @@
 	"title": "Experience",
 	"experience": [
 		{
-			"timeperiod": "May 2011 - February 2014",
+			"timeperiod": "May 2017 - Present",
 			"company": "Commercial Bank of Africa",
-			"position": "Customer Experience Assistant",
+			"position": "Application Support Analyst",
 			"website": "cbagroup.com",
-			"description": ["Serviced customer enquiries, determine customer needs",
-				"and provide solutions with regards to their banking needs"]
+			"description": ["Provided second level support on the T24 Core Banking application and Oracle",
+			"Middleware concerning the Mobile Savings and Lending products in Kenya (Mshwari) and Tanzanian markets.",
+			"Through Continual Service Improvement, I was instrumental in optimizing loan",
+			"request process on the M-shwari platform. This led to reduced turnaround time for",
+			"loan disbursals from over five minutes to almost instantaneous.",
+			"Lead T24 analyst on digital banking products and various systems that interface on",
+			"T24. Project implementation from ideation to post implementation support."]
+		},
+		{
+			"timeperiod": "February 2016 - April 2017",
+			"company": "Commercial Bank of Africa",
+			"position": "Systems Analyst",
+			"website": "cbagroup.com",
+			"description": ["Offered first level support on the core banking system, mobile",
+			"banking and internet banking interfaces."]
 		},
 		{
 			"timeperiod": "February 2014 - January 2016",
@@ -20,25 +33,12 @@
 				"internal customer satisfaction score for service desk unit."]
 		},
 		{
-			"timeperiod": "February 2016 - April 2017",
+			"timeperiod": "May 2011 - February 2014",
 			"company": "Commercial Bank of Africa",
-			"position": "Systems Analyst",
+			"position": "Customer Experience Assistant",
 			"website": "cbagroup.com",
-			"description": ["Offered first level support on the core banking system, mobile",
-			"banking and internet banking interfaces."]
-		},
-		{
-			"timeperiod": "May 2017 - Present",
-			"company": "Commercial Bank of Africa",
-			"position": "Application Support Analyst",
-			"website": "cbagroup.com",
-			"description": ["Provided second level support on the T24 Core Banking application and Oracle",
-			"Middleware concerning the Mobile Savings and Lending products in Kenya (Mshwari) and Tanzanian markets.",
-			"Through Continual Service Improvement, I was instrumental in optimizing loan",
-			"request process on the M-shwari platform. This led to reduced turnaround time for",
-			"loan disbursals from over five minutes to almost instantaneous.",
-			"Lead T24 analyst on digital banking products and various systems that interface on",
-			"T24. Project implementation from ideation to post implementation support."]
+			"description": ["Serviced customer enquiries, determine customer needs",
+				"and provide solutions with regards to their banking needs"]
 		}
 	]
 }
